@@ -11,5 +11,5 @@ github: [russjasp](https://github.com/russjasp)
 
 - [Drug Resistance]() Nematodes
 
-- [SNP caller]() SNP caller# Russ_Jasper
+- [SNP caller]() SNP caller
 # Russ_Jasper
