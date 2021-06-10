@@ -2,7 +2,7 @@
 
 ## Contact
 
-email: <rjjasper@ucalgary.edu>
+email: <rjjasper@ucalgary.ca>
 
 github: [russjasp](https://github.com/russjasp)
 
