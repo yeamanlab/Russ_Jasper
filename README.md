@@ -11,5 +11,5 @@ github: [russjasp](https://github.com/russjasp)
 
 - [Drug Resistance]() Nematodes
 
-- [SNP caller]() SNP caller
+- [SNP caller](https://github.com/russjasp/snpcaller_accuracy) Evalutating the accuracy of 5 commonly used variant caller tools
 
